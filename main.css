@@ -1,0 +1,69 @@
+td{
+    background-color:rgba(125, 78, 145, .9);
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    display: inline-block;
+    color:azure;
+    font-size: 50px ;
+    border-radius: 10px;
+    font-variant: small-caps;
+    text-align: center;
+    margin-left: 100px;
+    
+}
+h1{
+    text-align: center;
+    background-color: rgba(125, 78, 145, .9);
+    color: azure;
+    font-variant: small-caps;
+  
+}
+
+
+#H2{
+    text-align: center;
+    background-color: rgba(125, 78, 145, .9);
+    color: azure;
+    font-variant: small-caps;
+    width: 200px;
+    height: 45px;
+    margin-left: 45%;
+    font-size: 20px;
+}
+.Button{
+    position: absolute;
+  top: 90%;
+  left: 55%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+    color: azure;
+    font-size: 20px;
+    padding: 16px 30px;
+    background-color: rgba(125, 78, 145, .9);
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    font-variant: small-caps;
+}
+.Button:hover{
+    border:1px solid black;
+    box-shadow:1px 1px black;
+    color: azure;
+    font-variant: small-caps;
+}
+#xScore , #oScore{
+    font-variant: small-caps;
+    background-color: rgba(125, 78, 145, .9);
+    color: azure;
+    margin-left: 20px;
+    
+   
+}
+body{
+    background-image: url('pexels-photo-634548.jpeg');
+}
+h3{
+    width: 120px;
+}
