@@ -91,6 +91,7 @@ let player='X';
 let counter=false;
 let xScore=0;
 let oScore=0;
+let tieScore=0;
 function ticTacToe(event){
 
 // $(event.target).off('click');
@@ -114,7 +115,7 @@ checkWineer();
 
     $('#o').text(oScore);
     $('#x').text(xScore);
-    
+    $('#tie').text(tieScore);
 } $('td').on('click',ticTacToe)
 
 //if player = X 
@@ -190,8 +191,8 @@ else if ((cell4 !== '')&&( cell1 ===cell4)&&(cell4===cell7)){
     } else if (cell7==='X'){
        xScore++;}
 }else if ((cell1 !== '')&&(cell2 !== '') && (cell3 !== '')&&(cell4 !== '') &&(cell5 !== '')&& (cell6 !== '')&&(cell7 !== '')&&(cell8 !== '') &&(cell9 !== '')){
-    $('h2').text(' Tie !!');
-
+    $('h2').text(' Tie !!' );
+    tieScore++
 }}
 
 }   

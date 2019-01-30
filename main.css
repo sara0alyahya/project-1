@@ -53,12 +53,12 @@ h1{
     color: azure;
     font-variant: small-caps;
 }
-#xScore , #oScore{
+#xScore , #oScore ,#tieScore{
     font-variant: small-caps;
     background-color: rgba(125, 78, 145, .9);
     color: azure;
     margin-left: 20px;
-    
+    font-size: 20px;
    
 }
 body{
