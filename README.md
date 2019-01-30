@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-![the Game Board] (project-1)
+![the Game Board] (project-1.png)
 
 it's a simple tic tac toe  (XO) game .
 there's twoPlayer .
