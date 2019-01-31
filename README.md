@@ -11,7 +11,7 @@ starting with X then O .
 # the features includes 
 
 starting new game 
-start playing with X then O then back X , O.
+start playing with X then O .
 
 if player win the other one can not play in same board 
 The board either need to reset or Restart to new game .
@@ -43,16 +43,16 @@ the whole project and functions was great add to my knowledge .
 
 # add new feature to my Tic Tac Toe game
 
-my next step on building my tiny game is playing with computer 
-i will search for advance step to do in next step 
+my next step on building my tiny game is playing with computer .
 
-in my game i used javascript , jQuery , css and html  
+
+in my game i used javascript , jQuery , css and html  .
 
 # First step to handel a problem need to solve , it's to beark it into smaller problem .
 
 after that we can solve it easier .
 
-My big Acknowledgements to Great RAWAN ALAHMADI [@rawanah995](https://github.com/rawanah995)
+## My big Acknowledgements to Great RAWAN ALAHMADI [@rawanah995](https://github.com/rawanah995)
 
  she's the best helper when i have problem need to explain 
 
