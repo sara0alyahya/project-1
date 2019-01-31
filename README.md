@@ -52,7 +52,7 @@ in my game i used javascript , jQuery , css and html
 
 after that we can solve it easier .
 
-My big Acknowledgements to Great RAWAN ALAHMADI [@](rawanah995)
+My big Acknowledgements to Great RAWAN ALAHMADI [@rawanah995](https://github.com/rawanah995)
 
  she's the best helper when i have problem need to explain 
 
