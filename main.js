@@ -116,6 +116,7 @@ checkWineer();
     $('#o').text(oScore);
     $('#x').text(xScore);
     $('#tie').text(tieScore);
+    
 } $('td').on('click',ticTacToe)
 
 //if player = X 
@@ -207,3 +208,9 @@ else if ((cell4 !== '')&&( cell1 ===cell4)&&(cell4===cell7)){
  }$('.Button').on('click',reset)
 
 
+function restart(){
+    window.location.reload();
+    $('h2').text('' );
+    $('td').text('');
+    counter=false;
+}$('.restartButton').on('click',restart)
